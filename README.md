@@ -416,7 +416,7 @@ This project is created for educational purposes.
 
 ## 👨‍💻 Author
 
-**VIGNESH**
+**VIGNESH MUDALIYAR**
 
 ## 📧 Support
 
